@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.back1 {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 32.2%;
+    top: 255px;
+
+    background-color: #1FC4DA45;
+    border-radius: 15px;
+}
+
+.back1 h1 {
+    color: rgb(0, 63, 134);
+    font-size: xx-large;
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 255px;
+    top: 40px;
+}
+
+.img1 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.1;
+}
+
+.img2 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.2;
+    
+}
+
+.secret {
+    background-color: #1FC4DA45;
+    position: absolute;
+    width: 600px;
+    height: 567px;
+    left: 34.9%;
+    top: 390px;
+    border-radius: 10px;
+}
+
+.datalist input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 30px;
+}
+
+.datalist p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 275px;
+    top: 10px;
+}
+
+.datalist2 input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 90px;
+}
+
+.datalist2 p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 278px;
+    top: 70px;
+}
+
+.datalist3 input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 150px;
+}
+
+.datalist3 p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 275px;
+    top: 130px;
+}
+
+.datalist4 input {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 140px;
+    top: 210px;
+}
+
+.datalist4 p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 255px;
+    top: 190px;
+}
+
+.datalist5 button {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 142px;
+    top: 265px;
+}
+
+.datalist5 p {
+   position: absolute;
+   left: 225px;
+   top: 245px;
+}
+
+button {
+    background-color: #3696A3;
+}
+
+button a {
+    color:antiquewhite;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

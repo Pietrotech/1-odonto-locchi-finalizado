@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.back1 {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 32.2%;
+    top: 255px;
+
+    background-color: #1FC4DA45;
+    border-radius: 15px;
+}
+
+.back1 button {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 60px;
+    top: 50px;
+
+   background-color: #3696A3;
+}
+
+.back1 button a {
+    color:antiquewhite;
+}
+
+.back1 h1 {
+    color: rgb(0, 63, 134);
+    font-size: xx-large;
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 255px;
+    top: 40px;
+}
+
+.img1 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.1;
+}
+
+.img2 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.2;
+    
+}
+
+.secret {
+    background-color: #1FC4DA45;
+    position: absolute;
+    width: 600px;
+    height: 567px;
+    left: 34.9%;
+    top: 390px;
+    border-radius: 10px;
+}
+
+.datalist6 button {
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 140px;
+    top: 25px;
+}
+
+.datalist6_2 button {
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 140px;
+    top: 70px;
+}
+
+.datalist6_3 button {
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 140px;
+    top: 115px;
+}
+
+.datalist6_4 button {
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    left: 140px;
+    top: 160px;
+}
+
+.datalist6 p {
+   position: absolute;
+   left: 225px;
+   top: 5px;
+}
+
+button {
+    background-color: white;
+    border: none;
+}
+
+
+iframe{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 88px;
+    top: 200px;
+
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

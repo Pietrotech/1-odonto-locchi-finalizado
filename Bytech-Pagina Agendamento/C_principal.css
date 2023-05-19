@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.back1 {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 32.2%;
+    top: 255px;
+
+    background-color: #1FC4DA45;
+    border-radius: 15px;
+}
+
+.back1 button {
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    left: 60px;
+    top: 50px;
+
+   background-color: #3696A3;
+}
+
+.back1 button a {
+    color:antiquewhite;
+} 
+
+.back1 h1 {
+    color: rgb(0, 63, 134);
+    font-size: xx-large;
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 180px;
+    top: 40px;
+}
+
+.img1 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.1;
+}
+
+.img2 img {
+    position: absolute;
+    width: 700px;
+    height: 120px;
+    left: 1px;
+    top: 1px;
+
+    border-radius: 10px;
+    opacity: 0.2;
+    
+}
+
+.secret {
+    background-color: #1FC4DA45;
+    position: absolute;
+    width: 600px;
+    height: 567px;
+    left: 34.9%;
+    top: 390px;
+    border-radius: 10px;
+}
+
+.boleto{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 25%;
+    top: 30%;
+}
+
+.pix {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 35%;
+    top: 30%;
+}
+
+.label1 input {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 20px;
+}
+
+.label1 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 0px;
+}
+
+.label2 input {
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    left: 20px;
+    top: 80px;
+}
+
+.label2 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 60px;
+}
+
+
+.label3 input {
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    left: 285px;
+    top: 80px;
+}
+
+.label3 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 285px;
+    top: 60px;
+}
+
+.label4 input {
+    position: absolute;
+    width: 160px;
+    height: 35px;
+    left: 410px;
+    top: 80px;
+}
+
+.label4 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 410px;
+    top: 60px;
+}
+
+.label5 input {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 140px;
+}
+
+.label5 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 120px;
+}
+
+.label6 input {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 200px;
+}
+
+.label6 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 180px;
+}
+
+.label7 input {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 260px;
+}
+
+.label7 p {
+    position: absolute;
+    width: 550px;
+    height: 35px;
+    left: 20px;
+    top: 240px;
+}
+
+.label8 input {
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 200px;
+    top: 320px;
+}
+
+input {
+    background-color: #EEFBFD;
+}
+
+.label8 input {
+    background-color:#3696A3;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}
