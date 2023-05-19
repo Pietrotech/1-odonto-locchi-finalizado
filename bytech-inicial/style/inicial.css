@@ -1,0 +1,182 @@
+:root {
+    --cor-de-fundo: rgb(255, 255, 255);
+    --cor-do-header-absoluto: #0F90B4;
+    --cor-do-header: #3696A3;
+    --cor-das-palavras-hb: black;
+    --cor-das-palavras-principais: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.container__boca {
+    margin: 38px 500px;
+}
+
+.container__formacao {
+    margin: 5% 26.5%;
+    background-image: url(/bytech-inicial/img/sala.png);
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+.container__sala {
+    float: left;
+    height: 200px;
+    margin: 45px;
+}
+
+
+.container__tratamentos img {
+    float: right;
+    margin-right: 30%;
+}
+
+.container__tratamentos_titulo {
+    margin-left: 490px;
+}
+
+.container__tratamentos_texto {
+    margin: 6em;
+    margin-left: 490px;
+}
+
+.container__titulo_h3 {
+    margin: 0 10%;
+    font-family: 'Inter', sans-serif;
+}
+
+.container__texto_h5 {
+    margin: 10%;
+    font-family: 'Inter', sans-serif;
+}
+
+.container__saibamais {
+    background-color: #016193;
+    text-decoration: none;
+    color: black;
+    padding: 1em 2em;
+    border-radius: 20px;
+    margin-left: 50%;
+}
+
+.container__saibamais:hover {
+    background-color: #39d7ec;
+}
+
+.container__saibamais a:hover {
+    color: #016193;
+}
+
+.container__saibamais2 {
+    background-color: #016193;
+    text-decoration: none;
+    color: black;
+    padding: 1em 2em;
+    border-radius: 20px;
+    margin-left: 30.5em;
+}
+
+.container__saibamais2:hover {
+    background-color: #39d7ec;
+}
+
+.container__saibamais2 a:hover {
+    color: #016193;
+}
+
+.container__agendar_consulta2 {
+    background-color: #5FB5C0;
+    margin: 8em;
+    margin-left: 50em;
+    height: 20px;
+    width: 155px;
+    padding: 1em;
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.container__agendar_consulta2:hover {
+    background-color: #236172;
+}
+
+.container__agendar_consulta:hover {
+    color: #39d7ec;
+}
+
+.container__agendar_consulta {
+    color: black;
+}
+
+
+
+.container__frequente {
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    font-size: large;
+    font-weight: 400;
+    background-color: #25C7DC;
+    width: 260px;
+    height: 260px;
+    margin-left: 26em;
+    top: -15px;
+}
+
+.container__trata {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.container__trata a {
+    color: rgb(0, 0, 0);
+}
+
+.container__trata_2 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.container__trata_2 a {
+    color: black;
+}
+
+.linha_perguntas {
+    border: 1px solid #25C7DC;
+}
+
+.alinhamento_2 {
+    margin-top: 3em;
+}
+
+.botao_2 {
+    margin-bottom: 5em;
+}
+
+.cadastrese {
+    margin-bottom: 5em;
+}
+
+.cadastrese a {
+    color: black;
+}
+
+.alinhamento_1 {
+    margin-bottom: 750px;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

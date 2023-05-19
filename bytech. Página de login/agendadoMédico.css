@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 3;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 780px;
+    margin-top: 150px;
+   color: #016193;
+}
+.titulo_ img{
+    position: absolute;
+    left: 730px;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

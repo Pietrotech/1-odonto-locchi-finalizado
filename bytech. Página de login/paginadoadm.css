@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 3;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 780px;
+    margin-top: 160px;
+   color:black;
+}
+.tabela img{
+    position: absolute;
+    left: 550px;
+    height: 450px;
+}
+.kaue img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 400px;
+    top: 210px;
+    border-radius: 50%;
+    border: 5px solid black;
+
+}
+.flecha{
+    position: absolute;
+    left: 400px;
+}
+button{
+    background-color: #3696A3;
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+}
+
+.button-1{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: 75%;
+    top: 230px;
+}
+
+button a{
+    color: black;
+}
+.excluirconta{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    left: 1435px;
+    top: 290px;
+}
+p{
+    color: black;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

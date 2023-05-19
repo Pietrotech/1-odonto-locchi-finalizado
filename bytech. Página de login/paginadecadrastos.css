@@ -1,0 +1,64 @@
+h1 {
+    position: relative;
+    left: 665px;
+}
+
+input {
+    height: 54px;
+    font-size: 20px;
+    border-color: #8CEFFB;
+    border-width: 3px;
+    background: #EEFBFD;
+    border-style: solid;
+}
+
+.boxesq {
+    margin-top: 20px;
+    position: relative;
+    left: 665px;
+}
+
+.boxdir {
+    position: relative;
+    left: 1000px;
+    top: -83px;
+    margin-top: 20px;
+
+}
+
+.endereco input {
+    margin-left: 665px;
+    width: 578px;
+    position: relative;
+    top:-30px
+}
+.senha input {
+    margin-left: 665px;
+    width: 578px;
+    position: relative;
+    top: 20px;
+}
+
+.cadastrese button{
+    position: absolute;
+    height: 54px;
+    left: 840px;
+    top: 590px;
+    background: #3696A3;
+    border-radius: 5px;
+    width: 238px;
+    font-size: 15px;
+    
+}
+.alinhamento_2{
+    position: absolute;
+    top: 150px;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}

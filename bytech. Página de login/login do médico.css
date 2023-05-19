@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 3;
+    text-decoration: none;
+}
+h1 {
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+   color: #016193;
+}               
+.login h1{
+    position: absolute;
+    margin-left: 795px;
+    margin-top: 125px;
+    color: #016193;
+}
+
+.ema {
+    position: absolute;
+    width: 240px;
+    height: 54px;
+    left: 140px;
+    top: 135px;
+
+}
+
+.senha {
+    position: absolute;
+    width: 240px;
+    height: 54px;
+    left: 140px;
+    top: 200px;
+}
+.acesseaconta {
+    position: absolute;
+    width: 85px;
+    height: 54px;
+    left: 140px;
+    top: 310px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.acesseaconta button {
+    width: 238px;
+    height: 50px;
+    left: 10px;
+    top: 450px;
+   
+}
+
+.esqueciasenha {
+    position: absolute;
+    width: 230px;
+    height: 54px;
+    left: 140px;
+    top: 345px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+
+}
+
+.esqueciasenha button {
+    width: 238px;
+    height: 50px;
+    left: 375px;
+    top: 250px;
+    background-color: #fff;
+    border: none;
+}
+
+button {
+    background-color: #3696A3;
+    height: 30px;   
+    border-radius: 5px;
+}
+
+button a {
+    color: #000000;
+    padding: 0em;
+}
+
+.quadradointerno {
+    background-color: #ffffff00;
+    position: absolute;
+    width: 600px;
+    height: 700px;
+    left: 680px;
+    top: 300px;
+    border-radius: 5%;
+}
+
+.ema {
+    background-color: #EEFBFD;
+    border: 3.5px solid;
+    border-color: #8CEFFB;
+    width: 240px;
+}
+
+.senha {
+    background-color: #EEFBFD;
+    border: 3.5px solid;
+    border-color: #8CEFFB;
+    width: 240px;
+}
+
+.ema [type] {
+    
+    border: none;
+    background-color: #EEFBFD;
+}
+
+.senha [type] {
+    border: none;
+    background-color: #EEFBFD;
+    
+}
+.lembrarmeusdados {
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left:140px;
+    top: 280px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #2B2E2E;
+}
+.lembrarmeusdados p{
+    position: absolute;
+    width: 180px;
+    height: 50px;
+    left:40px;
+    top: 2px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #2B2E2E;
+
+}
+.titulo{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    margin-left: 725px;
+    margin-top: 170px;
+   color: #016193;
+}
+
+.titulo img{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 915px;
+    top: 220px;
+}
+
+.container__texto2 a {
+    color: black;
+}
+
+.container__texto3 a {
+    color: black;
+}
